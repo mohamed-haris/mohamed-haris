@@ -59,17 +59,17 @@ Software Engineer and AI specialist with 2+ years building production apps. Rece
 
 ## 🔥 Featured Projects
 
-### 🚗 [Vehicle Detection HUD](https://link.springer.com/chapter/10.1007/978-981-19-7874-6_47)
+### 🚗 [Vehicle Detection HUD](https://www.mohamedharis.tech/projects/vehicle-detection-hud)
 Real-time vehicle detection using TensorFlow Lite for mobile devices
 `TensorFlow Lite` `Computer Vision` `Flutter`
 
-### 🌱 GreenBioco - Smart Agriculture Platform
+### 🌱 [GreenBioco - Smart Agriculture Platform](https://mohamedharis.tech/projects/greenbioco)
 AI-powered crop management with IoT sensor integration
 `Flutter` `Firebase` `IoT` `Weather APIs`
 
-### 🤖 AI Bot Management Platform
-Full-stack platform for training and deploying AI assistants
-`Next.js` `RAG` `Vector Search` `LangChain`
+### 🤖 [Sidekick - AI Talent Development Platform](https://www.mohamedharis.tech/projects/sidekick)
+AI-powered talent intelligence platform revolutionizing employee training, evaluation, and development through customized AI agents and personalized coaching.
+`Next.js` `Node.js` `RAG` `Vector Search` `LangChain`
 
 *Most of my recent work is in private repos due to client confidentiality*
 
@@ -83,7 +83,7 @@ Full-stack platform for training and deploying AI assistants
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohamed-haris&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   💼 **Open to opportunities** | 🌍 **Based in UK** | 🚀 **Ready to build amazing things**
 </div>
