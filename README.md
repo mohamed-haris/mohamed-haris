@@ -36,11 +36,11 @@ Software Engineer and AI specialist with 3+ years building production apps. Rece
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🎯 Recent Focus
-🎓 Just completed MSc AI (Feb 2025) - transitioning from private enterprise work to open source
-🚀 Building public portfolio after 3+ years of client/enterprise development  
-🤝 Actively contributing to AI/ML and Flutter communities
-⚡ Most recent work in private repositories due to enterprise confidentiality
+## 🎯 Recent Focus
+- 🎓 Just completed MSc AI (Feb 2025) - transitioning from private enterprise work to open source
+- 🚀 Building public portfolio after 3+ years of client/enterprise development  
+- 🤝 Actively contributing to AI/ML and Flutter communities
+- ⚡ Most recent work in private repositories due to enterprise confidentiality
 
 ## 🚀 What I'm Up To
 
