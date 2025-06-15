@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Software Engineer and AI specialist with 5+ years building production apps. Recently completed **MSc in AI** from University of Surrey. Love creating intelligent applications that solve real problems.
+Software Engineer and AI specialist with 3+ years building production apps. Recently completed **MSc in AI** from University of Surrey. Love creating intelligent applications that solve real problems.
 
 - 🔭 Currently working on: AI-powered automation and RAG systems
 - 🌱 Learning: Advanced LLM optimization and multi-modal AI
