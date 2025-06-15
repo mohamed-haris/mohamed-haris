@@ -36,16 +36,11 @@ Software Engineer and AI specialist with 3+ years building production apps. Rece
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-haris&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-haris&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-haris&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+🎯 Recent Focus
+🎓 Just completed MSc AI (Feb 2025) - transitioning from private enterprise work to open source
+🚀 Building public portfolio after 3+ years of client/enterprise development  
+🤝 Actively contributing to AI/ML and Flutter communities
+⚡ Most recent work in private repositories due to enterprise confidentiality
 
 ## 🚀 What I'm Up To
 
